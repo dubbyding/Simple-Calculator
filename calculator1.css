@@ -1,0 +1,56 @@
+#display{
+    font-size: 40px;
+    position: relative;
+    margin: 40px;
+    width: 400px;
+    height: 100px;
+    background-color:palevioletred;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    text-align: center;
+}
+#numbers{
+    margin-left: 20px;
+    padding-top: 5px;
+    width: 350px;
+    height: 400px;
+    position: relative;
+    background-color:white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    text-align: center;
+}
+ #operation{
+    
+    margin-left: 360px;
+    margin-top: -270px;
+    width: 100px;
+    height: 400px;
+    
+    background-color:aqua;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    border-right: solid;
+    text-align: center;
+
+}
+body{
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    height: 600px;
+}
+button{
+    margin-top: 7px;
+    font-size: 40px;
+    width: 100px;
+    height: 60px;
+    background-color: blueviolet;
+    border-color: black;
+}
+ 
